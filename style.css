@@ -39,4 +39,10 @@
     font-family: 'Indie Flower', cursive;
   
   }
+.dice-button {
+    height: 40px;
+    width: 100px;
+    background: #faebd7;
+    border-radius: 20px;
+}
   
