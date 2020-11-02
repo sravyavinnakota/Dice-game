@@ -1,4 +1,4 @@
-![IMG_6711](https://user-images.githubusercontent.com/45550183/97919491-b8ab9e00-1d0c-11eb-9ef5-b7d147bab7f6.jpeg)
+                      ![IMG_6711](https://user-images.githubusercontent.com/45550183/97919491-b8ab9e00-1d0c-11eb-9ef5-b7d147bab7f6.jpeg)
 
 
 DICE GAME:
